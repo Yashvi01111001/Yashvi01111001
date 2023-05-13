@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yashvi01111001
-- 👀 I’m interested in Java, Python, SQL, HTML, CSS, PHP
-- 🌱 I’m currently learning PHP, JavaScript
+- 👀 I code in ReactNative, JavaScript, Java, Python, SQL, HTML, CSS, PHP.
+- 🌱 I’m currently learning R, Rust.
 - 💞️ I’m looking to collaborate on any projects :) 
 - 📫 How to reach me: @yashvibhadania (Instagram) 
 
