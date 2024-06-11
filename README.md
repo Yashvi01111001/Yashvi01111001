@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yashvi01111001
-- 👀 I code in ReactNative, JavaScript, Dart, Kotlin, Java, Python, SQL, HTML, CSS, PHP.
+- 👀 I code in Python, JavaScript, SQL, HTML, CSS, PHP, Java.
 - 🌱 I’m currently learning R.
 - 💞️ I’m looking to collaborate on any projects :)
 
