@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yashvi01111001
 - 👀 I code in Python, JavaScript, SQL, HTML, CSS, PHP, Java.
 - 🌱 I’m currently learning R.
-- 💞️ I’m looking to collaborate on any projects :)
+- 💞️ I’m looking to collaborate on AI/ML projects :)
 
 <!---
 Yashvi01111001/Yashvi01111001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
