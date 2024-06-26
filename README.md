@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yashvi01111001
 - 👀 I code in Python, SQL, JavaScript, HTML, CSS, PHP, Java.
-- 🌱 I’m currently learning R.
+- 🌱 I’m currently learning MongoDB.
 - 💞️ I’m looking to collaborate on AI/ML projects :)
 - ✔ Certified in Azure Artificial Intelligence by Microsoft:
   
