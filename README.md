@@ -2,7 +2,7 @@
 - 👀 I code in Python, SQL, JavaScript, HTML, CSS, PHP, Java.
 - 🌱 I’m currently learning MongoDB.
 - 💞️ I’m looking to collaborate on AI/ML projects :)
-- ✔ Certified in Azure Artificial Intelligence by Microsoft:
+- ✔ Microsoft Certification in Azure Artificial Intelligence:
   
   https://learn.microsoft.com/api/credentials/share/en-us/YashviBhadania-7076/52B1C09E0EB57F90?sharingId=803C7D1F02E9ED92 
 
