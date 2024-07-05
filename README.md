@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yashvi01111001
+- 👋 Hi, I’m Yashvi!
 - 👀 I code in Python (Django, Numpy, Pandas), SQL, JavaScript, HTML, CSS, PHP, Java.
 - 🌱 I’m currently learning MongoDB.
 - 💞️ I’m looking to collaborate on AI, ML, & Data Science projects :)
