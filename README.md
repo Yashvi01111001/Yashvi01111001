@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yashvi!
-- 👀 I code in Python (Flask, Django, Numpy, Pandas, Matplotlib), SQL, JavaScript, HTML, CSS, PHP, Java, C++.
-- 🌱 I’m currently learning MongoDB.
+- 👀 I code in Python (Flask, Django, Numpy, Pandas, Matplotlib), SQL, NoSQL, JavaScript, HTML, CSS, PHP, Java, C++.
+- 🌱 I’m currently learning Deep Learning, LangChain, Computer Vision.
 - 💞️ I’m looking to collaborate on AI, ML, & Data Science projects :)
 - ✔ Microsoft Certification in Azure Artificial Intelligence (AI-900):
   
