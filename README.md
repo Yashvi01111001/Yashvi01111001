@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yashvi!
 - 👀 I code in Python (Flask, Django, Numpy, Pandas, Plotly, Matplotlib, Sklearn, PyTorch), SQL, NoSQL, JavaScript, HTML, CSS, PHP, C++.
-- 🌱 I’m currently learning Deep Learning(ANNs, RNNs, CNNs,).
+- 🌱 I’m currently learning Deep Learning (ANNs, RNNs, CNNs,).
 - 💞️ I’m looking to collaborate on Data Science and AI projects :)
 - ✔ Microsoft Certification in Azure Artificial Intelligence (AI-900):
   
