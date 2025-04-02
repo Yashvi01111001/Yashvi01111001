@@ -41,19 +41,4 @@
 
 ---
 
-### 📫 Let's Connect  
-<p align="center">
-  <a href="https://www.linkedin.com/in/yashvi-bhadania/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-YashviBhadania-blue?style=flat&logo=linkedin" />
-  </a>
-  <a href="mailto:yashvibhadania@gmail.com">
-    <img src="https://img.shields.io/badge/Email-yashvibhadania@gmail.com-red?style=flat&logo=gmail" />
-  </a>
-  <a href="https://github.com/Yashvi01111001">
-    <img src="https://img.shields.io/badge/GitHub-Yashvi01111001-black?style=flat&logo=github" />
-  </a>
-</p>
-
----
-
 ⭐️ *Feel free to explore my repositories and contribute!*  
