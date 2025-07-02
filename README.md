@@ -7,7 +7,7 @@
 ---
 
 ### 🚀 About Me  
-- 👀 I code in **Python** (`Flask`, `Django`, `Numpy`, `Pandas`, `Plotly`, `Matplotlib`, `Sklearn`, `PyTorch`, `TensorFlow`, `OpenCV), **R**, **SQL**, **NoSQL**, **HTML**, **CSS**, **C++**  
+- 👀 I code in **Python** (`Flask`, `Django`, `Numpy`, `Pandas`, `Plotly`, `Matplotlib`, `Sklearn`, `PyTorch`, `TensorFlow`, `OpenCV`), **R**, **SQL**, **NoSQL**, **HTML**, **CSS**, **C++**  
 - 🌱 Worked on projects in **Autoencoders, Deep Learning (ANNs, RNNs, CNNs)** & **Generative AI**
 - ⚡️ Currently working on **Agentic AI**
 - 🤝 I’m looking to collaborate on **Data Science and AI/ML projects**  
