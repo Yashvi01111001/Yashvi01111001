@@ -42,4 +42,12 @@
 
 ---
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yashvi01111001/Yashvi01111001/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yashvi01111001/Yashvi01111001/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Yashvi01111001/Yashvi01111001/output/github-snake.svg" />
+</picture>
+
+
+
 ⭐️ *Feel free to explore my repositories and contribute!*  
