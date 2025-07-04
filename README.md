@@ -15,12 +15,26 @@
   [![Azure AI Certification](https://img.shields.io/badge/Microsoft-AI--900-blue?style=flat&logo=microsoft)](https://learn.microsoft.com/api/credentials/share/en-us/YashviBhadania-7076/52B1C09E0EB57F90?sharingId=803C7D1F02E9ED92)  
 
 ---
+<div align="center">
 
 ### 🛠 Tech Stack  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,django,numpy,pandas,sklearn,pytorch,r,sql,mysql,mongodb,html,css,cpp,git,github,azure,docker" />
-</p>
 
+#### 🧠 <strong>Languages & Core</strong>
+<img src="https://skillicons.dev/icons?i=python,cpp,r" />
+
+#### 🧪 <strong>Libraries & Frameworks</strong>
+<img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow,flask,django" />
+
+#### 💾 <strong>Databases</strong>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+
+#### 🌐 <strong>Web Development</strong>
+<img src="https://skillicons.dev/icons?i=html,css" />
+
+#### ⚙️ <strong>Tools & Platforms</strong>
+<img src="https://skillicons.dev/icons?i=git,github,azure,docker" />
+
+</div>
 ---
 
 ### 📊 GitHub Stats  
