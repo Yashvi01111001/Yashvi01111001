@@ -28,7 +28,7 @@
 <img src="https://skillicons.dev/icons?i=python,cpp,r" />
 
 #### 🧪 <strong>Libraries & Frameworks</strong>
-<img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow,flask,django" />
+<img src="https://skillicons.dev/icons?i=sklearn,pytorch,opencv,tensorflow,flask,django,fastapi" />
 
 #### 💾 <strong>Databases</strong>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
@@ -37,7 +37,10 @@
 <img src="https://skillicons.dev/icons?i=html,css" />
 
 #### ⚙️ <strong>Tools & Platforms</strong>
-<img src="https://skillicons.dev/icons?i=git,github,azure,docker" />
+<img src="https://skillicons.dev/icons?i=git,github,azure,docker,arduino,postman" />
+
+#### 💻 <strong>Operating Systems</strong>
+<img src="https://skillicons.dev/icons?i=linux,windows,apple" />
 
 </div>
 
