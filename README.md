@@ -64,11 +64,11 @@
 
 ### 🏆 GitHub Achievements  
 
-</div>
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Yashvi01111001&theme=radical&no-bg=true&no-frame=true" />
 </p>
+
+</div>
 
 ---
 
