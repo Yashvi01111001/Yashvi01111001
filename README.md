@@ -43,7 +43,12 @@
 
 ---
 
+<div align="center">
+
 ### 📊 GitHub Stats  
+
+</div>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yashvi01111001&show_icons=true&theme=radical" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashvi01111001&theme=radical" width="48%" alt="GitHub Streak Stats" />
@@ -55,7 +60,12 @@
 
 ---
 
+<div align="center">
+
 ### 🏆 GitHub Achievements  
+
+</div>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Yashvi01111001&theme=radical&no-bg=true&no-frame=true" />
 </p>
