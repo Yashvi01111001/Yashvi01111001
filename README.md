@@ -6,7 +6,12 @@
 
 ---
 
+<div align="center">
+
 ### 🚀 About Me  
+
+</div>
+
 - 👀 I code in **Python** (`Flask`, `Django`, `Numpy`, `Pandas`, `Plotly`, `Matplotlib`, `Sklearn`, `PyTorch`, `TensorFlow`, `OpenCV`), **R**, **SQL**, **NoSQL**, **HTML**, **CSS**, **C++**  
 - 🌱 Worked on projects in **Autoencoders, Deep Learning (ANNs, RNNs, CNNs)** & **Generative AI**
 - ⚡️ Currently working on **Agentic AI**
@@ -35,6 +40,7 @@
 <img src="https://skillicons.dev/icons?i=git,github,azure,docker" />
 
 </div>
+
 ---
 
 ### 📊 GitHub Stats  
