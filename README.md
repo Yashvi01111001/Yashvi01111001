@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Yashvi Bhadania! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=B184FF&center=true&vCenter=true&width=500&lines=Data+Scientist+%7C+AI+Engineer;Deep+Learning+%7C+GenAI;Python+%7C+AI+%7C+Cloud+Computing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=B184FF&center=true&vCenter=true&width=500&lines=Data+Scientist+%7C+AI+Engineer;Deep+Learning+%7C+Generative AI;Python+%7C+AI+%7C+Cloud+Computing" alt="Typing SVG" />
 </p>
 
 ---
