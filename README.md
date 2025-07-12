@@ -14,7 +14,7 @@
 
 - 👀 I code in **Python** (`Flask`, `Django`, `Numpy`, `Pandas`, `Plotly`, `Matplotlib`, `Sklearn`, `PyTorch`, `TorchVision`, `TensorFlow`, `OpenCV`), **R**, **SQL**, **NoSQL**, **HTML**, **CSS**, **C++**  
 - 🌱 Worked on projects in **Autoencoders, Deep Learning (ANNs, RNNs, CNNs)** & **Generative AI**
-- ⚡️ Currently working on **Agentic AI**
+- ⚡️ I'm currently working on **Agentic AI**
 - 🤝 I’m looking to collaborate on **Data Science and AI/ML projects**  
 - 🎓 **Microsoft Certified in Azure AI (AI-900)**  
   [![Azure AI Certification](https://img.shields.io/badge/Microsoft-AI--900-blue?style=flat&logo=microsoft)](https://learn.microsoft.com/api/credentials/share/en-us/YashviBhadania-7076/52B1C09E0EB57F90?sharingId=803C7D1F02E9ED92)  
