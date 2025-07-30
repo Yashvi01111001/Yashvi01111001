@@ -13,7 +13,7 @@
 </div>
 
 - 👀 I code in **Python** (`Flask`, `Django`, `Numpy`, `Pandas`, `Plotly`, `Matplotlib`, `Sklearn`, `PyTorch`, `TorchVision`, `TensorFlow`, `OpenCV`), **R**, **SQL**, **NoSQL**, **HTML**, **CSS**, **C++**  
-- 🌱 I've worked on projects in **Autoencoders, Deep Learning (ANNs, RNNs, CNNs)** & **Generative AI**
+- 🌱 I've worked on projects in **RAG, Autoencoders, Deep Learning (ANNs, RNNs, CNNs)** & **Generative AI**
 - ⚡️ I'm currently working on **Agentic AI**
 - 🤝 I’m looking to collaborate on **AI/ML and Data Science projects**  
 - 🎓 **Microsoft Certified in Azure AI (AI-900)**  
